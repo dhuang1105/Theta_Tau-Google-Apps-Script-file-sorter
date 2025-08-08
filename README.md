@@ -1,6 +1,6 @@
 # Theta-Tau-Drive-Google-Apps-Script-file-sorter
 
-This project is a **Google Apps Script automation** built for the Theta Tau Engineering Fraternity to organize academic resources in Google Drive.
+This project is a **Google Apps Script automation** built for the Theta Tau Engineering Fraternity at Santa Clara University to organize academic resources in our Google Drive.
 
 ## Features
 - Scans all subfolders within a master academic folder.
@@ -15,8 +15,8 @@ This project is a **Google Apps Script automation** built for the Theta Tau Engi
 - Logs all file movements (timestamp, original folder, new folder) to a Google Sheet for transparency.
 
 ## Demo Log Sheet
-View a sample log of file movements here (demo data only):  
-[📄 Demo Log Sheet](YOUR_PUBLIC_SHEET_LINK_HERE)
+View a sample log of file movements here:  
+[📄 Demo Log Sheet](https://docs.google.com/spreadsheets/d/1QM6fwDJZtb24jCL7In82OO0mILVJOIf07Ic4Q3-j7Xc/edit?usp=sharing)
 
 ## Tech Stack
 - Google Apps Script (JavaScript)
