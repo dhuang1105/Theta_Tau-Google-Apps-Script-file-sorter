@@ -16,7 +16,7 @@ This project is a **Google Apps Script automation** built for the Theta Tau Engi
 
 ## Demo Log Sheet
 View a sample log of file movements here:  
-[📄 Demo Log Sheet](https://docs.google.com/spreadsheets/d/1QM6fwDJZtb24jCL7In82OO0mILVJOIf07Ic4Q3-j7Xc/edit?usp=sharing)
+[📄 Demo Log Sheet](https://docs.google.com/spreadsheets/d/17XmK1hnw1YooRHvnxDkIx2F_0lUBFzZomcS3mSZD8I4/edit?usp=sharing)
 
 ## Tech Stack
 - Google Apps Script (JavaScript)
